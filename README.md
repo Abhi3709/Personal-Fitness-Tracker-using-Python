@@ -12,10 +12,6 @@ pip (Python package installer)​
 Installation
 Clone the Repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/personal-fitness-tracker.git
 Navigate to the Project Directory:
 
 bash
